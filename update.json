@@ -5,4 +5,13 @@
       "URL": "https://raw.githubusercontent.com/Somujavooru/esp32-ota/main/app.ino.doitESP32devkitV1.bin"
     }
   ]
-}
+};
+
+{
+  "Configurations": [
+    {
+      "Config": "LIGHT",
+      "Version": "8.0.0",
+      "URL": "https://raw.githubusercontent.com/Somujavooru/esp32-ota/main/light.bin"
+    }
+   
