@@ -1,17 +1,14 @@
 {
   "Configurations": [
     {
-      "Version": "7.0.0",
-      "URL": "https://raw.githubusercontent.com/Somujavooru/esp32-ota/main/app.ino.doitESP32devkitV1.bin"
+      "Config": "LIGHT",
+      "Version": "9.0.0",
+      "URL": "https://raw.githubusercontent.com/Somujavooru/esp32-ota/main/light.bin"
+    },
+    {
+      "Config": "FAN",
+      "Version": "10.0.0",
+      "URL": "https://raw.githubusercontent.com/Somujavooru/esp32-ota/main/fan.bin"
     }
   ]
 }
-
-{
-  "Configurations": [
-    {
-      "Config": "LIGHT",
-      "Version": "8.0.0",
-      "URL": "https://raw.githubusercontent.com/Somujavooru/esp32-ota/main/light.bin"
-    }
-   
