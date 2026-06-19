@@ -1,8 +1,9 @@
 {
   "Configurations": [
     {
-      "Config": "LIGHT",
-      "Version": "3.0.0",
-      "URL": "https://github.com/Somujavooru/esp32-ota/blob/main/app2.ino.doitESP32devkitV1.bin"
+      "Config": "FAN",
+      "Version": "4.0.0",
+      "URL": "https://raw.githubusercontent.com/Somujavooru/esp32-ota/main/app2.ino.doitESP32devkitV1.bin"
     }
-   
+  ]
+}
