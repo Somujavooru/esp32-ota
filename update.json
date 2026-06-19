@@ -3,6 +3,6 @@
     {
       "Config": "LIGHT",
       "Version": "11.0.0",
-      "URL": "https://raw.githubusercontent.com/Somujavooru/esp32-ota/main/app.ino.doitESP32devkitV1.bin"
+      "URL": "https://github.com/Somujavooru/esp32-ota/blob/main/app2.ino.doitESP32devkitV1.bin"
     }
    
